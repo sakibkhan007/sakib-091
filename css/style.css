@@ -146,3 +146,114 @@ footer p{
 	margin-bottom: 52px;
 }
 /*<!--footer part end-->*/
+
+!--media queary-->*/
+@media (min-width: 320px) and (max-width:500px){
+.hm{
+    background: url(../img/homepage.png);
+    width: 100%;
+}
+.logo{
+	margin: 20px auto;
+}
+.one nav ul{
+  margin-top: 50px;
+}
+.one ul{
+	width: 450px;
+}
+ .one nav ul li{
+   display: inline;
+   margin: 0 30px; 
+}
+.one nav ul li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 13px;
+}
+.text h3{
+	padding: 10px 100px;
+    margin-top: 80px;
+}
+.text p{
+	margin-top: 50px;
+    line-height: 22px;
+    width: 331px;
+    margin-left: 33px;
+}
+.underlinetwo{
+    display: block;
+    width: 40px;
+    border-bottom: 2px solid #fff;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+.btu{
+	margin-top: 70px;
+    padding: 14px 30px;
+    margin-bottom: 140px;
+    border-radius: 12px;
+    margin-left: 35px;
+}
+.three h1{
+	margin-top: 100px;
+	font-size: 28px;
+	margin-left: 20px;
+}
+.underlineone{
+    display: block;
+    width: 40px;   
+    margin-top: 45px;
+    margin-left: 20px;
+}
+.three p{
+	margin-top: 45px;
+    margin-left: 20px;
+    margin-bottom: 200px;
+    width: 364px;
+}
+.content-pic-two {
+    top: -125px;
+    left: 10%;
+    width: 84%;
+}
+.cart{
+ 	background-color: #56000c;
+ }
+ .five h1{
+ 	margin-top: 110px;
+    margin-left: 25px;
+    font-size: 32px;
+ }
+
+ .underlinethree{
+ 	display: block;
+    width: 30px;
+    margin-top: 34px;
+    margin-left: 25px;  
+}
+.five p{
+	width: 600px;
+	margin-top: 60px;
+    margin-left: 25px;
+}
+.btm{
+	background-color: #28282e00;
+    margin-top: 55px;
+    padding: 14px 20px;
+    border-radius: 12px;
+    margin-bottom: 0px;
+    margin-left: 25px;
+}
+.six img{
+        margin-top: 160px;
+    width: 98%;
+    margin-left: 8px;
+    margin-bottom: -16px;
+}
+footer p{
+	margin-top: 34px;
+    margin-bottom: 35px;
+    margin-left: 25px;
+}
+}
