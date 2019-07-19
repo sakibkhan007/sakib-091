@@ -1,0 +1,109 @@
+/*<!--top seation start-->*/
+.hm {
+    width: 100%;
+    background-size: cover;
+    border-bottom: 8px solid #8080805c;
+}
+.logo{
+	margin-top:85px;
+	margin-bottom: 45px;
+}
+nav ul{
+   list-style-position: none;
+   color: #005D7F;
+   margin-top: 105px;
+   margin-bottom: 47px;
+
+}
+ nav ul li{
+   display: inline;
+    margin: 0 60px;
+}
+ nav ul li a{
+	text-decoration: none;
+	font-size: 13px;
+	color: #005D7F;
+}
+ nav ul li a:hover{
+	text-decoration: none;
+}
+/*<!--top seation end-->*/
+
+
+/*<!--contact section start-->*/
+
+.body{
+   background-color: #F23E2C;
+}
+.nine h1 {
+    color: #fff;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.nine p{
+  width: 700px;
+  color: #fff;
+}
+.nine img{
+   position: relative;
+}
+.ten img {
+    margin-top: 106px;
+    position: absolute;
+    margin-left: 56px;
+}
+/* <!--contact section end-->*/
+
+.design{
+  color:#fff;
+  margin-top: 44px;
+}
+.designing{
+  color:#fff;
+  margin-top: 30px;
+}
+
+.input-box{
+    background-color: #FF6153;
+    padding: 10px;
+    width: 325px;
+    border:none;
+    color: #fff;
+}
+.designed{
+  color:#fff;
+  margin-top: 44px;
+  margin-left: 30px;
+}
+.designer{
+  color:#fff;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.input-boxed {
+    background-color: #FF6153;
+    padding: 10px;
+    width: 410px;
+    border: none;
+    color: #fff;
+    margin-left: 30px;
+}
+button:not(:disabled) {
+    cursor: pointer;
+    margin-top: 128px;
+    margin-left: 35px;
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    font-family: 'Meie Script', cursive;
+}
+/*<!--footer part start-->*/
+footer{
+  background-color: #e63c2b;
+}
+footer p{
+  margin-top: 45px;
+  color: #fff;
+  margin-bottom: 50px;
+}
+/*<!--footer part end-->*/

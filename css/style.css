@@ -1,0 +1,148 @@
+/*<!--top seation start-->*/
+.hm{
+	background: url(../img/homepage.png);
+	width: 100%;
+	background-size: cover;
+}
+.bg{
+	background-color: #79615461;
+}
+
+.logo{
+	margin-top:80px;
+}
+.one nav ul{
+   list-style-position: none;
+   color: #fff;
+   margin-top: 105px;
+}
+ .one nav ul li{
+   display: inline;
+   margin: 0 60px;
+
+  
+}
+.one nav ul li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 13px;
+}
+.text{
+    color: #fff;
+	}
+.text h3{
+	background-color: #3637356e;
+	padding: 10px 40px;
+	margin-top: 146px;
+}
+.text p{
+	margin-top: 33px;
+	line-height: 20px;
+}
+.underlinetwo{
+	display: block;
+    width: 20px;
+    border-bottom: 2px solid #fff;
+    margin-top: 80px;  
+    color: #fff;
+}
+.btu{
+	margin-top: 40px;
+	padding: 20px 103px;
+	background: #74757200;
+	margin-bottom: 208px;
+	color: #fff;
+	border-radius: 5px;
+}
+/*<!--top seation end-->*/
+
+/*<!--car seation start-->
+*/
+.three{
+	width: 600px;
+}
+.three h1{
+	margin-top: 170px;
+	font-size: 38px;
+}
+.underlineone{
+	display: block;
+    width: 20px;
+    border-bottom: 2px solid black;
+    margin-top: 40px;  
+    color: #fff;
+}
+.three p{
+	margin-top: 60px;
+}
+.four{
+	margin-top: 207px;
+	width: 600px;
+	font-size: 38px;
+	margin-top: 245px;
+	position:relative;
+}
+.cad{
+	margin-left: 100px;
+}
+
+.content-pic-two {
+    position: absolute;
+    top: 200px;
+    left: 15%;
+    width: 110%;
+}
+/*<!--car seation end-->*/
+/*
+ <!--next car section start-->*/
+
+ .cart{
+ 	background-color: #28282E;
+
+ }
+ .five{
+ 	width: 600px;
+ }
+ .five h1{
+ 	color: #fff;
+ 	margin-top: 133px;
+
+ }
+
+ .underlinethree{
+ 	display: block;
+    width: 20px;
+    border-bottom: 2px solid #fff;
+    margin-top: 30px;  
+    color: #28282E;
+}
+.five p{
+	color: #fff;
+	width: 600px;
+	margin-top: 60px;
+}
+.btm{
+	background-color: #28282E;
+	margin-top: 76px;
+	padding: 23px 31px;
+	margin-bottom: 144px;
+	color: #fff;
+	border-radius: 5px;
+}
+.six img{
+    margin-top: 245px;
+}
+
+/*<!--next car section end-->*/
+
+/*<!--footer part start-->*/
+
+footer{
+	background-color: #F23E2C;
+}
+footer p{
+	margin-top: 45px;
+	color: #fff;
+	margin-bottom: 52px;
+}
+/*<!--footer part end-->*/
