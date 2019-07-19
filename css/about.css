@@ -67,3 +67,51 @@ footer p{
 	margin-bottom: 50px;
 }
 /*<!--footer part end-->*/
+
+/*!--media queary-->*/
+@media (min-width: 320px) and (max-width:500px){
+.logo{
+	margin: 20px 30px;
+}
+ nav ul{
+  margin-top: 20px;
+}
+ ul{
+	width: 450px;
+}
+ nav ul li{
+   display: inline;
+   margin: 0 30px; 
+}
+.one h1{
+	margin-top: 40px;
+	margin-left: 30px;
+	font-size: 35px;
+}
+.one p{
+	margin-top: 50px;
+	margin-left: 17px;
+	width: 500px;
+}
+.prent{
+	position: relative;
+    margin-top: 90px;
+    padding: 0px 130px;
+    width: 130%;
+}
+.chlid{
+	position: absolute;
+    margin-top: -167px;
+    width: 58%;
+}
+.two p{
+	margin-top: 130px;
+	margin-bottom: 100px;
+	width: 500px
+}
+footer p{
+	margin-top: 34px;
+    margin-bottom: 35px;
+    margin-left: 55px;
+}
+}
