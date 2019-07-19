@@ -147,7 +147,7 @@ footer p{
 }
 /*<!--footer part end-->*/
 
-!--media queary-->*/
+/* <!--media queary--> */
 @media (min-width: 320px) and (max-width:500px){
 .hm{
     background: url(../img/homepage.png);
