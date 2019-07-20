@@ -1,16 +1,16 @@
 /*<!--top seation start-->*/
 .hm{
-	background: url(../img/homepage.png);
-	width: 100%;
-	background-size: cover;
-	background-color: black;
+    background: url(../img/homepage.png);
+    width: 100%;
+    background-size: cover;
+    background-color: black;
 }
 .bg{
-	background-color: #79615461;
+    background-color: #79615461;
 }
 
 .logo{
-	margin-top:80px;
+    margin-top:80px;
 }
 .one nav ul{
    list-style-position: none;
@@ -25,82 +25,82 @@
   
 }
 .one nav ul li a{
-	color: #fff;
-	text-decoration: none;
-	font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
 }
 .text{
     color: #fff;
-	}
+    }
 .text h3{
-	background-color: #3637356e;
-	padding: 10px 40px;
-	margin-top: 146px;
+    background-color: #3637356e;
+    padding: 10px 40px;
+    margin-top: 146px;
 }
 .text p{
-	margin-top: 33px;
-	line-height: 20px;
+    margin-top: 33px;
+    line-height: 20px;
 }
 .underlinetwo{
-	display: block;
+    display: block;
     width: 20px;
     border-bottom: 2px solid #fff;
     margin-top: 80px;  
     color: #fff;
 }
 .btu{
-	margin-top: 40px;
-	padding: 20px 103px;
-	background: #74757200;
-	margin-bottom: 208px;
-	color: #fff;
-	border-radius: 5px;
+    margin-top: 40px;
+    padding: 20px 103px;
+    background: #74757200;
+    margin-bottom: 208px;
+    color: #fff;
+    border-radius: 5px;
 }
 /*<!--top seation end-->*/
 
 /*<!--car seation start-->
 */
+.car{
+    background-color:#f6f6f6d4;
+}
 .three{
-	width: 600px;
+    width: 600px;
 }
 .three h1{
-	margin-top: 170px;
-	font-size: 38px;
+    margin-top: 170px;
+    font-size: 38px;
 }
 .underlineone{
-	display: block;
+    display: block;
     width: 20px;
     border-bottom: 2px solid black;
     margin-top: 40px;  
     color: #fff;
 }
 .three p{
-	margin-top: 60px;
-    margin-bottom: 40px;
+    margin-top: 50px;
+    margin-bottom: 70px;
 }
 
-.wc-img{
+.image{
     position: relative;
 
 }
-.wc-img-one{
-        position: absolute;
-    top: 22%;
-    right: -65px;
-}
-.wc-img-two{
-    left: 20%;
+.image-one{
     position: absolute;
-    top: 21%;
-
+    top: 17%;
+    right: -297px;
 }
-.wc-img-one img{
-        height: 490px;
-    width: 825px;
+.image-two{
+    left: 6%;
+    position: absolute;
+    top: 26%;
+    margin-left: 93px;
 }
-.wc-img-two img{
-    margin-left: 100px;
-    margin-top: 50px;
+.image-two img{
+    margin-left: 68px;
+    margin-top: 10px;
+    width: 110%;
 }
 
 /*<!--car seation end-->*/
@@ -108,37 +108,37 @@
  <!--next car section start-->*/
 
  .cart{
- 	background-color: #28282E;
+    background-color: #28282E;
 
  }
  .five{
- 	width: 600px;
+    width: 600px;
  }
  .five h1{
- 	color: #fff;
- 	margin-top: 133px;
+    color: #fff;
+    margin-top: 133px;
 
  }
 
  .underlinethree{
- 	display: block;
+    display: block;
     width: 20px;
     border-bottom: 2px solid #fff;
     margin-top: 30px;  
     color: #28282E;
 }
 .five p{
-	color: #fff;
-	width: 600px;
-	margin-top: 60px;
+    color: #fff;
+    width: 600px;
+    margin-top: 60px;
 }
 .btm{
-	background-color: #28282E;
-	margin-top: 76px;
-	padding: 23px 31px;
-	margin-bottom: 144px;
-	color: #fff;
-	border-radius: 5px;
+    background-color: #28282E;
+    margin-top: 76px;
+    padding: 23px 31px;
+    margin-bottom: 144px;
+    color: #fff;
+    border-radius: 5px;
 }
 .six img{
     margin-top: 245px;
@@ -149,12 +149,12 @@
 /*<!--footer part start-->*/
 
 footer{
-	background-color: #F23E2C;
+    background-color: #F23E2C;
 }
 footer p{
-	margin-top: 45px;
-	color: #fff;
-	margin-bottom: 52px;
+    margin-top: 45px;
+    color: #fff;
+    margin-bottom: 52px;
 }
 /*<!--footer part end-->*//*
 
@@ -166,29 +166,29 @@ footer p{
     width: 100%;
 }
 .logo{
-	margin: 20px auto;
+    margin: 20px auto;
 }
 .one nav ul{
   margin-top: 50px;
 }
 .one ul{
-	width: 450px;
+    width: 450px;
 }
  .one nav ul li{
    display: inline;
    margin: 0 30px; 
 }
 .one nav ul li a{
-	color: #fff;
-	text-decoration: none;
-	font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
 }
 .text h3{
-	padding: 10px 100px;
+    padding: 10px 100px;
     margin-top: 80px;
 }
 .text p{
-	margin-top: 50px;
+    margin-top: 50px;
     line-height: 22px;
     width: 331px;
     margin-left: 33px;
@@ -201,16 +201,16 @@ footer p{
     margin-left: 40px;
 }
 .btu{
-	margin-top: 70px;
+    margin-top: 70px;
     padding: 14px 30px;
     margin-bottom: 140px;
     border-radius: 12px;
     margin-left: 35px;
 }
 .three h1{
-	margin-top: 100px;
-	font-size: 28px;
-	margin-left: 20px;
+    margin-top: 100px;
+    font-size: 28px;
+    margin-left: 20px;
 }
 .underlineone{
     display: block;
@@ -219,57 +219,58 @@ footer p{
     margin-left: 20px;
 }
 .three p{
-	margin-top: 45px;
+    margin-top: 45px;
     margin-left: 20px;
     margin-bottom: 200px;
     width: 364px;
 }
-.wc-img{
+.image{
     position: relative;
 
 }
-.wc-img-one {
+.image-one {
     position: absolute;
-    margin-top: -137px;
-    right: 159px;
+    margin-top: -140px;
+    right: 162px;
 }
-.wc-img-two{
-     left: 172px;
-    position: absolute;
-    margin-top: -160px;
-    margin-left: 45px;
-
+.image-two{
+     /* left: 127px; */
+     position: absolute;
+     margin-top: -146px;
+     margin-left: 179px;
+     margin-right: -0px;
 }
-.wc-img-one img{
-        height: 180px;
-    width: 320px;
+.image-one img{
+        height: 186px;
+        width: 347px;
 }
-.wc-img-two img{
-        margin-left: -74px;
-    margin-top: 56px;
+.image-two img{
+        margin-left: -67px;
+        margin-top: 55px;
+        /* width: 100%; */
 }
 .cart{
- 	background-color: #56000c;
+    background-color: #56000c;
  }
  .five h1{
- 	margin-top: 110px;
+    margin-top: 110px;
     margin-left: 25px;
     font-size: 32px;
  }
 
  .underlinethree{
- 	display: block;
+    display: block;
     width: 30px;
     margin-top: 34px;
     margin-left: 25px;  
 }
 .five p{
-	width: 600px;
-	margin-top: 60px;
+    width: 600px;
+    margin-top: 60px;
     margin-left: 25px;
 }
 .btm{
-	background-color: #28282e00;
+    background-color: #28282e00;
     margin-top: 55px;
     padding: 14px 20px;
     border-radius: 12px;
@@ -283,7 +284,7 @@ footer p{
     margin-bottom: -16px;
 }
 footer p{
-	margin-top: 34px;
+    margin-top: 34px;
     margin-bottom: 35px;
     margin-left: 25px;
 }
