@@ -79,12 +79,30 @@
     margin-bottom: 40px;
 }
 
-.content-pic-two {
-    position: absolute;
-    top: 200px;
-    left: 15%;
-    width: 110%;
+.wc-img{
+    position: relative;
+
 }
+.wc-img-one{
+        position: absolute;
+    top: 22%;
+    right: -65px;
+}
+.wc-img-two{
+    left: 20%;
+    position: absolute;
+    top: 21%;
+
+}
+.wc-img-one img{
+        height: 490px;
+    width: 825px;
+}
+.wc-img-two img{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
 /*<!--car seation end-->*/
 /*
  <!--next car section start-->*/
@@ -206,10 +224,29 @@ footer p{
     margin-bottom: 200px;
     width: 364px;
 }
-.content-pic-two {
-    top: -125px;
-    left: 10%;
-    width: 84%;
+.wc-img{
+    position: relative;
+
+}
+.wc-img-one {
+    position: absolute;
+    margin-top: -137px;
+    right: 159px;
+}
+.wc-img-two{
+     left: 172px;
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 45px;
+
+}
+.wc-img-one img{
+        height: 180px;
+    width: 320px;
+}
+.wc-img-two img{
+        margin-left: -74px;
+    margin-top: 56px;
 }
 .cart{
  	background-color: #56000c;
