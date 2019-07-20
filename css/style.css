@@ -142,7 +142,7 @@ footer p{
 
 
 !--media queary-->*/
-@media (min-width: 320px) and (max-width:350px){
+@media (min-width: 320px) and (max-width:500px){
 .hm{
     background: url(../img/homepage.png);
     width: 100%;
