@@ -3,6 +3,7 @@
 	background: url(../img/homepage.png);
 	width: 100%;
 	background-size: cover;
+	background-color: black;
 }
 .bg{
 	background-color: #79615461;
@@ -15,6 +16,7 @@
    list-style-position: none;
    color: #fff;
    margin-top: 105px;
+   
 }
  .one nav ul li{
    display: inline;
@@ -72,10 +74,11 @@
     margin-top: 40px;  
     color: #fff;
 }
-.three p {
-    margin-top: 60px;
+.three p{
+	margin-top: 60px;
     margin-bottom: 40px;
 }
+
 .content-pic-two {
     position: absolute;
     top: 200px;
@@ -135,9 +138,10 @@ footer p{
 	color: #fff;
 	margin-bottom: 52px;
 }
-/*<!--footer part end-->*/
+/*<!--footer part end-->*//*
 
-/* <!--media queary--> */
+
+!--media queary-->*/
 @media (min-width: 320px) and (max-width:500px){
 .hm{
     background: url(../img/homepage.png);
