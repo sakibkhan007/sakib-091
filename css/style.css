@@ -8,17 +8,21 @@
 .bg{
     background-color: #79615461;
 }
+
 .logo{
     margin-top:80px;
 }
 .one nav ul{
    list-style-position: none;
    color: #fff;
-   margin-top: 105px; 
+   margin-top: 105px;
+   
 }
  .one nav ul li{
    display: inline;
-   margin: 0 60px; 
+   margin: 0 60px;
+
+  
 }
 .one nav ul li a{
     color: #fff;
@@ -52,6 +56,10 @@
     color: #fff;
     border-radius: 5px;
 }
+.btu:hover{
+    background-color:#1a5f7b;
+    color:#fff;
+}
 /*<!--top seation end-->*/
 
 /*<!--car seation start-->
@@ -77,8 +85,10 @@
     margin-top: 50px;
     margin-bottom: 70px;
 }
+
 .image{
     position: relative;
+
 }
 .image-one{
     position: absolute;
@@ -96,11 +106,14 @@
     margin-top: 10px;
     width: 110%;
 }
-/*<!--car seation end-->*/
 
+/*<!--car seation end-->*/
+/*
  <!--next car section start-->*/
+
  .cart{
     background-color: #28282E;
+
  }
  .five{
     width: 600px;
@@ -108,7 +121,9 @@
  .five h1{
     color: #fff;
     margin-top: 133px;
+
  }
+
  .underlinethree{
     display: block;
     width: 20px;
@@ -129,12 +144,18 @@
     color: #fff;
     border-radius: 5px;
 }
+.btm:hover{
+    background-color: skyblue;
+    color: black;
+}
 .six img{
     margin-top: 245px;
 }
+
 /*<!--next car section end-->*/
 
 /*<!--footer part start-->*/
+
 footer{
     background-color: #F23E2C;
 }
@@ -145,6 +166,7 @@ footer p{
 }
 /*<!--footer part end-->*//*
 
+
 !--media queary-->*/
 @media (min-width: 320px) and (max-width:500px){
 .hm{
@@ -152,8 +174,7 @@ footer p{
     width: 100%;
 }
 .logo{
-   margin-top: 40px;
-   margin-left: 30px;
+    margin: 20px auto;
 }
 .one nav ul{
   margin-top: 50px;
@@ -197,8 +218,7 @@ footer p{
 .btu:hover{
     margin-top: 55px;
     background-color:#1a5f7b;
-    border-color: #ffffff;
-    color:#383838;
+    color:#fff;
 }
 .three h1{
     margin-top: 100px;
@@ -211,6 +231,7 @@ footer p{
     margin-top: 45px;
     margin-left: 20px;
 }
+
 .three p{
     margin-top: 45px;
     margin-left: 20px;
@@ -219,6 +240,7 @@ footer p{
 }
 .image{
     position: relative;
+
 }
 .image-one {
     position: absolute;
@@ -239,6 +261,7 @@ footer p{
     margin-top: 55px;
     width: 100%; 
 }
+
 .cart{
     background-color: #56000c;
  }
@@ -247,6 +270,7 @@ footer p{
     margin-left: 25px;
     font-size: 32px;
  }
+
 .underlinethree{
     display: block;
     width: 30px;
@@ -266,6 +290,11 @@ footer p{
     margin-bottom: 0px;
     margin-left: 25px;
 }
+.btm:hover{
+    background-color: #00000069;
+    color: #fff;
+}
+
 .six img{
         margin-top: 160px;
     width: 98%;
@@ -276,5 +305,4 @@ footer p{
     margin-top: 34px;
     margin-bottom: 35px;
     margin-left: 25px;
-}
 }
