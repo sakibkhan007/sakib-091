@@ -173,8 +173,10 @@ footer p{
     background: url(../img/homepage.png);
     width: 100%;
 }
-.logo{
-    margin: 20px auto;
+.logo {
+    /* margin: 0 auto; */
+    margin-top: 32px;
+    margin-left: 34px;
 }
 .one nav ul{
   margin-top: 50px;
