@@ -57,7 +57,7 @@
     border-radius: 5px;
 }
 .btu:hover{
-    background-color:#1a5f7b;
+    background-color:#1a5f7b96;
     color:#fff;
 }
 /*<!--top seation end-->*/
@@ -138,14 +138,14 @@
 }
 .btm{
     background-color: #28282E;
-    margin-top: 76px;
-    padding: 23px 31px;
+    margin-top: 60px;
+    padding: 15px 45px;
     margin-bottom: 144px;
     color: #fff;
     border-radius: 5px;
 }
 .btm:hover{
-    background-color: skyblue;
+    background-color: #87ceeb6b;
     color: black;
 }
 .six img{
@@ -217,7 +217,7 @@ footer p{
 }
 .btu:hover{
     margin-top: 55px;
-    background-color:#1a5f7b;
+    background-color:#1a5f7b96;
     color:#fff;
 }
 .three h1{
@@ -284,14 +284,14 @@ footer p{
 }
 .btm{
     background-color: #28282e00;
-    margin-top: 55px;
-    padding: 14px 20px;
+    margin-top: 35px;
+    padding: 14px 30px;
     border-radius: 12px;
     margin-bottom: 0px;
     margin-left: 25px;
 }
 .btm:hover{
-    background-color: #00000069;
+    background-color: #00000082;
     color: #fff;
 }
 
@@ -305,4 +305,5 @@ footer p{
     margin-top: 34px;
     margin-bottom: 35px;
     margin-left: 25px;
+}
 }
