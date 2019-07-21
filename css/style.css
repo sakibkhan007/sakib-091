@@ -60,6 +60,7 @@
 .btu:hover{
     background-color:#1a5f7b96;
     color:#fff;
+    transition: ease 0.8s;
 }
 /*<!--top seation end-->*/
 
@@ -148,6 +149,7 @@
 .btm:hover{
     background-color: #87ceeb6b;
     color: black;
+    transition: ease 0.8s;
 }
 .six img{
     margin-top: 245px;
@@ -175,7 +177,8 @@ footer p{
     width: 100%;
 }
 .logo{
-    margin: 20px auto;
+    margin-top: 35px;
+    margin-left: 30px;
 }
 .one nav ul{
   margin-top: 50px;
@@ -220,6 +223,7 @@ footer p{
     margin-top: 55px;
     background-color:#1a5f7b96;
     color:#fff;
+    transition: ease 0.8s;
 }
 .three h1{
     margin-top: 100px;
