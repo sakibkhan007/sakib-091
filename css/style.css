@@ -8,21 +8,17 @@
 .bg{
     background-color: #79615461;
 }
-
 .logo{
     margin-top:80px;
 }
 .one nav ul{
    list-style-position: none;
    color: #fff;
-   margin-top: 105px;
-   
+   margin-top: 105px; 
 }
  .one nav ul li{
    display: inline;
-   margin: 0 60px;
-
-  
+   margin: 0 60px; 
 }
 .one nav ul li a{
     color: #fff;
@@ -81,10 +77,8 @@
     margin-top: 50px;
     margin-bottom: 70px;
 }
-
 .image{
     position: relative;
-
 }
 .image-one{
     position: absolute;
@@ -102,14 +96,11 @@
     margin-top: 10px;
     width: 110%;
 }
-
 /*<!--car seation end-->*/
-/*
- <!--next car section start-->*/
 
+ <!--next car section start-->*/
  .cart{
     background-color: #28282E;
-
  }
  .five{
     width: 600px;
@@ -117,9 +108,7 @@
  .five h1{
     color: #fff;
     margin-top: 133px;
-
  }
-
  .underlinethree{
     display: block;
     width: 20px;
@@ -143,11 +132,9 @@
 .six img{
     margin-top: 245px;
 }
-
 /*<!--next car section end-->*/
 
 /*<!--footer part start-->*/
-
 footer{
     background-color: #F23E2C;
 }
@@ -157,7 +144,6 @@ footer p{
     margin-bottom: 52px;
 }
 /*<!--footer part end-->*//*
-
 
 !--media queary-->*/
 @media (min-width: 320px) and (max-width:500px){
@@ -201,11 +187,17 @@ footer p{
     margin-left: 40px;
 }
 .btu{
-    margin-top: 70px;
+    margin-top: 55px;
     padding: 14px 30px;
     margin-bottom: 140px;
     border-radius: 12px;
     margin-left: 35px;
+}
+.btu:hover{
+    margin-top: 55px;
+    background-color:#1a5f7b;
+    border-color: #ffffff;
+    color:#383838;
 }
 .three h1{
     margin-top: 100px;
@@ -226,7 +218,6 @@ footer p{
 }
 .image{
     position: relative;
-
 }
 .image-one {
     position: absolute;
@@ -234,20 +225,18 @@ footer p{
     right: 162px;
 }
 .image-two{
-     /* left: 127px; */
-     position: absolute;
-     margin-top: -146px;
-     margin-left: 179px;
-     margin-right: -0px;
+    position: absolute;
+    margin-top: -146px;
+    margin-left: 155px;
 }
 .image-one img{
-        height: 186px;
-        width: 347px;
+    height: 186px;
+    width: 347px;
 }
 .image-two img{
-        margin-left: -67px;
-        margin-top: 55px;
-        /* width: 100%; */
+    margin-left: -67px;
+    margin-top: 55px;
+    width: 100%; 
 }
 .cart{
     background-color: #56000c;
@@ -257,15 +246,14 @@ footer p{
     margin-left: 25px;
     font-size: 32px;
  }
-
- .underlinethree{
+.underlinethree{
     display: block;
     width: 30px;
     margin-top: 34px;
     margin-left: 25px;  
 }
 .five p{
-    width: 600px;
+    width: 428px;
     margin-top: 60px;
     margin-left: 25px;
 }
