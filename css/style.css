@@ -174,9 +174,8 @@ footer p{
     background: url(../img/homepage.png);
     width: 100%;
 }
-.logo {
-    margin-top: 32px;
-    margin-left: 34px;
+.logo{
+    margin: 20px auto;
 }
 .one nav ul{
   margin-top: 50px;
@@ -295,6 +294,7 @@ footer p{
 .btm:hover{
     background-color: #00000082;
     color: #fff;
+    transition: ease 0.8s;
 }
 
 .six img{
