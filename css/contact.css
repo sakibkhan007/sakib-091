@@ -87,16 +87,21 @@ nav ul{
     border: none;
     color: #fff;
 }
-button:not(:disabled) {
+.thdrly {
+    margin-bottom: 84px;
+    margin-top: 100px;
+}
+.thdrly button {
     cursor: pointer;
-    margin-top: 128px;
-    margin-left: 35px;
-    font-size: 25px;
+    margin-top: 20px;
+    font-size: 26px;
+    margin-bottom: 50px;
     background-color: transparent;
     border: none;
     font-family: 'Meie Script', cursive;
 }
 /*<!--footer part start-->*/
+
 footer{
   background-color: #e63c2b;
 }
@@ -176,17 +181,11 @@ footer p{
     padding: 10px;
     width: 340px;
 }
+.thdrly button:hover{
+  color: skyblue;
 }
-button:not(:disabled) {
-    cursor: pointer;
-    margin-top: 20px;
-    font-size: 26px;
-    margin-bottom: 50px;
-    background-color: transparent;
-    border: none;
-    font-family: 'Meie Script', cursive;
-}
-button:hover{
-  color: #87ceeb8a;
+.thdrly {
+    margin-bottom: 40px;
+    margin-top: 10px;
 }
 }
