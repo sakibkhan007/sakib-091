@@ -97,6 +97,9 @@ nav ul{
     border: none;
     font-family: 'Meie Script', cursive;
 }
+.thdrly button:hover{
+  color: gray;
+}
 /*<!--footer part start-->*/
 
 footer{
