@@ -13,7 +13,6 @@ nav ul{
    color: #005D7F;
    margin-top: 105px;
    margin-bottom: 47px;
-
 }
  nav ul li{
    display: inline;
@@ -31,7 +30,6 @@ nav ul{
 
 
 /*<!--contact section start-->*/
-
 .body{
    background-color: #F23E2C;
 }
@@ -53,7 +51,6 @@ nav ul{
     margin-left: 56px;
 }
 /* <!--contact section end-->*/
-
 .design{
   color:#fff;
   margin-top: 44px;
@@ -162,7 +159,6 @@ footer p{
   color:#fff;
   margin-top: 30px;
 }
-
 .input-box{
     background-color: #71a8b666;
     padding: 10px;
